@@ -1,1 +1,1 @@
-{"root":["./vite.config.ts"],"version":"5.6.2"}
+{"root":["./vite.config.ts","./src/app-handler/tests/brackets-operation.test.ts","./src/app-handler/tests/calculate-operations.test.ts","./src/app-handler/tests/multiplying-negative.test.ts","./src/app-handler/tests/round-operations.test.ts"],"version":"5.6.2"}
